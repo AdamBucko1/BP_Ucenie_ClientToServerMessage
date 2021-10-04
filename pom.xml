@@ -34,7 +34,7 @@
                         </goals>
                         <configuration>
                             <mainClass>
-                                sk.stuba.fei.uim.oop.Main
+                                sk.stuba.fei.uim.oop.Server
                             </mainClass>
                         </configuration>
                     </execution>
